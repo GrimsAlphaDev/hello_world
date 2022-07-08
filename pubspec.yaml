@@ -59,6 +59,14 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - images/patoriku.jpg
+
+  fonts:
+    - family: Oswald
+      fonts:
+        - asset: fonts/Oswald/Oswald-Regular.ttf
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
